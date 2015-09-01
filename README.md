@@ -1,6 +1,4 @@
-# Node SupportTicket ![Build Status](http://sdsbuildserver.cloudapp.net/app/rest/builds/buildType:%28id:SupportTicket_CIBuild%29/statusIcon)
-
-An updated version of support ticket, written with the Hapi framework in Node.
+# Hapi Base
 
 
 ## Command Line Tools Installation
